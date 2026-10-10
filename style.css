@@ -1,6 +1,6 @@
 body {
   font-family: system-ui, sans-serif;
-  background: #1f2937;
+  background: #860303;
   margin: 0;
 }
 
@@ -30,7 +30,7 @@ button {
   padding: 10px 16px;
   border: none;
   border-radius: 8px;
-  background: #1f2937;
+  background: #b319f0;
   color: white;
   font-size: 16px;
   cursor: pointer;
